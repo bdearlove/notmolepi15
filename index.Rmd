@@ -186,7 +186,7 @@ To investigate the utility of whole-genome sequences for
 
 ### ST-45 complex
 
-<img src='assets/img/ST45-tree.svg' style="background:none; border:none; box-shadow:none; height:100%"/>
+<img src='assets/img/ST45-tree.svg' style="background:none; border:none; box-shadow:none;"/>
 
 ---
 
