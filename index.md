@@ -25,13 +25,6 @@ license     :
 <br>
 <span style="font-size:20px"><img src="assets/img/twitter-icon.png" style="background:none; border:none; box-shadow:none; vertical-align:middle"/> &nbsp;<a href="http://www.twitter.com/bethanydearlove" target="_blank" style="vertical-align:middle">@bethanydearlove</a></span>
 
-<!---
-Notes view:
-<aside class='notes'>
-  Type your notes here
-</aside>
---->
-
 ---
 
 ### *Campylobacter*
@@ -41,16 +34,12 @@ Notes view:
   + Symptoms last 7-10 days.
   + Can lead to more serious diseases such as Guillain-Barré syndrome and reactive arthritis.
 
-<!--- 
-this is a comment
---->
-
 ---
 
 ### Increasing incidence
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
-<div style="font-size:16px">Data source: HPE</div>
+<p><a href="https://www.gov.uk/government/publications/campylobacter-cases-2000-to-2012" target="_blank" style="vertical-align:middle; font-size:16px">Data source: HPE</a></p>
 
 ---
 
@@ -66,9 +55,6 @@ this is a comment
 
 ### Zoonosis
 <br>
-<!--- 
-(it is also a zoonotic pathogen, with a wide range of wild and domestic hosts, where it carried, apparently asymptomatically in the gut microbiota)
---->
 * Range of wild and domestic hosts
 * Asymptomatic carriage in the gut microbiota.
 * Contamination can occur any time from farmyard to fork.
@@ -78,7 +64,6 @@ this is a comment
 <div style="font-size:16px;"><img src='assets/img/CC3.png' style="background:none; border:none; box-shadow:none; vertical-align:bottom"> &nbsp;<a href="http://www.snap2objects.com/2009/06/9-free-vector-animal-farm/" target="_blank" style="vertical-align:middle">Mauricio Duque</a></span></div>
 </div>
 
-
 --- &vertical
 
 ### Characterising zoonosis
@@ -86,10 +71,6 @@ this is a comment
 * MLST analyses have shown that:
   + Populations in different host species tend to be genetically isolated, despite shared geography.
   + However, some of the most common disease-causing strains are isolated from multiple host species.
-
-<!---
-Because it doesn't survive well outside the gut..., regardless of shared geography.  and this information can be used to attribute the sources of clinical infections by exploiting differences in the Campylobacter strains living in different reservoirs. 
---->
 
 ***
 
@@ -101,21 +82,11 @@ Because it doesn't survive well outside the gut..., regardless of shared geograp
 <div style="font-size:16px;"><a href="http://www.pnas.org/content/110/29/11923" target="_blank" style="vertical-align:middle">Sheppard et al. (2013). PNAS.</a></div>
 </div>
 
-
-<!---
-And we can see that with MLST data. Here is a phylogenetic tree from Sheppard et al. 2013, with the coloured circles representing the host species. These single colour clades are phylogenetically distinct. However, these green lines mark 
---->
-
 ---
 ### Characterising zoonosis
 <br>
 * Genuine generalists?
 * Just the limited resolution of MLST?
-
-
-<!---
-Investigating how Campylobacter is able to transmit between host species is fundamental in informing public health strategies and subsequently reducing the current upwards trend in cases.
---->
 
 ---
 
@@ -161,10 +132,6 @@ To investigate the utility of whole-genome sequences for
   <p>Transitions between nucleotides</p>
   <p style="font-size:24px">N = A or C or G or T</p>
 
-<!---
-* The ambiguity code will give a posterior probability of each host for each human isolate.
---->
-
 --- 
 
 ### Accounting for ancestral recombination
@@ -173,26 +140,25 @@ To investigate the utility of whole-genome sequences for
   + Relaxed clock
   + Gamma site heterogeneity
 * Removal of homoplasies
-  + Hedge and Wilson (2014)
-
+  + <a href="http://mbio.asm.org/content/5/6/e02158-14.short" target="_blank" style="vertical-align:middle"><font color="black">Hedge and Wilson (2014)</font></a> 
 
 ---
 
 ### ST-45 complex
 
-<img src='assets/img/ST45-tree.svg' style="background:none; border:none; box-shadow:none;width:100%"/>
+<img src='assets/img/ST45-tree.svg' style="background:none; border:none; box-shadow:none;width:68%"/>
 
 ---
 
 ### ST-21 complex
 
-<img src='assets/img/ST21-tree.svg' style="background:none; border:none; box-shadow:none; height:100%"/>
+<img src='assets/img/ST21-tree.svg' style="background:none; border:none; box-shadow:none;width:68%"/>
 
 ---
 
 ### ST-828 complex
 
-<img src='assets/img/ST828-tree.svg' style="background:none; border:none; box-shadow:none; height:100%"/>
+<img src='assets/img/ST828-tree.svg' style="background:none; border:none; box-shadow:none;width:68%"/>
 
 ---
 
@@ -202,11 +168,6 @@ Estimated one jump every...
 * 1.6 years in ST-21
 * 1.8 years in ST-45
 * 12 years in ST-828
-
-<!---
-rejected single jump hypothesis in all STs
-robust to alternative prior beliefs
---->
 
 ---
 
@@ -219,12 +180,6 @@ robust to alternative prior beliefs
 ### Source of clinical cases
 
 <img src='assets/img/clinical-source.svg' style="background:none; border:none; box-shadow:none; width:100%"/>
-
-<!---
-89% of cases chicken
-consistent with MLST, but still lack in confidence
-even when isolates most closely related to clades sampled only from chicken, still uncertainty of 30-40%
---->
 
 ---
 
